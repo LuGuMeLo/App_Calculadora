@@ -1,4 +1,4 @@
-# calculadora2
+# App_Calculadora
 
 Projeto Calculadora - LovePeople.
 

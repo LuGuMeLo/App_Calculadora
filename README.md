@@ -1,6 +1,6 @@
-# calculadora2
+# App_Calculadora
 
-A new Flutter project.
+Projeto Calculadora - LovePeople.
 
 ## Getting Started
 
